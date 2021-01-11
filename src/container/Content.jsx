@@ -20,6 +20,13 @@ const Content = [
     description: 'Colocando minhas pernas para o ar',
     video: '',
   },
+  {
+  title: 'Palpites',
+  image: '/images/boy_or_girl.jpg',
+  img_alt: 'Menino ou Menina?',
+  description: 'Alguém arrisca? Coloca lá no grupo!',
+  video: '',
+},
 ]
 
 export default Content
