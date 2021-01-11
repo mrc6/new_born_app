@@ -61,6 +61,8 @@ a:visited {
   flex-direction: row;
   height: 100px;
   justify-content: space-between;
+  position: fixed;
+  top: 540px;
   width: 330px;
 }
 
