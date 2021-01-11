@@ -1,3 +1,13 @@
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color:white;
+  text-decoration: none;
+}
+
 .App {
   text-align: center;
 }
@@ -7,33 +17,102 @@
   pointer-events: none;
 }
 
-.pokedex {
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.bebe {
+  border: 3px yellow solid;
+}
+
+.donate {
+  align-items: center;
+  background-color: green;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  height: 60px;
+  text-align: center;
+  width: 50%;
+}
+
+.feed {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  height: 500px;
+  justify-content: flex-start;
+  overflow: scroll;
+}
+
+.feed_image {
+  display: flex;
+  width: 360px;
+}
+
+.footer {
+  border-top: 1px black solid;
+  bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+  width: 360px;
+}
+
+.group {
+  align-items: center;
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 23px;
+  height: 60px;
+  text-align: center;
+  width: 50%;
+}
+
+.header {
+  display: flex;
+  border-bottom: 1px black solid;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 360px;
+}
+
+.main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: flex-start;
+  width: 360px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.mamae {
+  border: 3px green solid;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.papai {
+  border: 3px blue solid;
+}
+
+.post {
+  width: 360px;
+}
+
+.profile {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.profile_image {
+  border-radius: 100%;
+  height: 80px;
 }
+
 
 @media only screen and ( max-width : 760px ) {
 

@@ -1,18 +1,17 @@
 import React from 'react';
-import { Provider } from 'react-redux';
-import store from './store';
-import Counter from './components/Counter';
-import Button from './components/Button';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Home from './components/Home'
 import './App.css';
 
 function App() {
   return (
-    <Provider store={store}>
-      <div>
-        <Counter />
-        <Button />
-      </div>
-    </ Provider>
+    <div className="App">
+      <BrowserRouter>
+        <Switch>
+          <Route exact path="/" component={Home} />
+        </Switch>
+      </BrowserRouter>
+    </div>
   );
 }
 
