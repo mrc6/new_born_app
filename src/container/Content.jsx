@@ -1,24 +1,17 @@
 const Content = [
   { 
-    title: 'Imagem do Papai',
-    image: '/images/papai.jpg',
-    img_alt: 'Imagem do Papai',
-    description: 'Papai olhando com seu olhar 43',
+    title: 'Status do Relacionamento',
+    image: '/images/relacionamento_serio.jpg',
+    img_alt: 'Relacionamento Sério',
+    description: 'Em um relacionamento sério a 3!',
     video: '',
   },
   { 
-    title: 'Imagem do Papai',
-    image: '/images/papai.jpg',
-    img_alt: 'Imagem do Papai',
-    description: 'Papai olhando com seu olhar 43',
+    title: 'Vestido Novo',
+    image: '/images/aline_vestido.jpg',
+    img_alt: 'Relacionamento Sério',
+    description: 'Meu número está ficando maior! O.M.G!',
     video: '',
-  },
-  { 
-    title: 'Imagem do Papai',
-    image: '/images/papai.jpg',
-    img_alt: 'Imagem do Papai',
-    description: 'Papai olhando com seu olhar 43',
-    video: 'https://www.youtube.com/watch?v=5eYL1F-TygQ',
   },
 ]
 
