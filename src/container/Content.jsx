@@ -9,8 +9,15 @@ const Content = [
   { 
     title: 'Vestido Novo',
     image: '/images/aline_vestido.jpg',
-    img_alt: 'Relacionamento Sério',
+    img_alt: 'Vestido Maior',
     description: 'Meu número está ficando maior! O.M.G!',
+    video: '',
+  },
+  { 
+    title: 'Descansando as pernas',
+    image: '/images/pernas_para_o_ar.jpg',
+    img_alt: 'Pernas para o ar',
+    description: 'Colocando minhas pernas para o ar',
     video: '',
   },
 ]
