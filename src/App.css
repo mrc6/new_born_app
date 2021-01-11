@@ -45,8 +45,9 @@ a:visited {
   align-items: center;
   display: flex;
   flex-flow: row wrap;
-  height: 400px;
+  height: 60vh;
   justify-content: flex-start;
+  max-height: 640px;
   overflow: scroll;
 }
 
@@ -59,10 +60,11 @@ a:visited {
   border-top: 1px black solid;
   display: flex;
   flex-direction: row;
-  height: 100px;
+  height: 16vh;
   justify-content: space-between;
+  max-height: 140px;
   position: fixed;
-  top: 540px;
+  top: 83vh;
   width: 330px;
 }
 
@@ -82,8 +84,9 @@ a:visited {
   display: flex;
   border-bottom: 1px black solid;
   flex-direction: row;
-  height: 100px;
+  height: 16vh;
   justify-content: space-between;
+  max-height: 140px;
   width: 330px;
 }
 
@@ -91,8 +94,9 @@ a:visited {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  height: 600px;
+  height: 90vh;
   justify-content: flex-start;
+  max-height: 700px;
   width: 330px;
 }
 
