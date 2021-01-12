@@ -17,6 +17,18 @@ a:visited {
   pointer-events: none;
 }
 
+.button {
+  align-items: center;
+  background-color: red;
+  color: white;
+  display: flex;
+  font-size: 7vw;
+  height: 60px;
+  justify-content: center;
+  text-align: center;
+  width: 330px;
+}
+
 .container {
   background-color: white;
   display: flex;
@@ -26,7 +38,7 @@ a:visited {
 }
 
 .bebe {
-  border: 3px yellow solid;
+  border: 4px yellow solid;
 }
 
 .donate {
@@ -87,6 +99,7 @@ a:visited {
   height: 16vh;
   justify-content: space-between;
   max-height: 140px;
+  min-height: 85px;
   width: 330px;
 }
 
@@ -102,11 +115,11 @@ a:visited {
 
 
 .mamae {
-  border: 3px red solid;
+  border: 4px red solid;
 }
 
 .papai {
-  border: 3px green solid;
+  border: 4px green solid;
 }
 
 .post {

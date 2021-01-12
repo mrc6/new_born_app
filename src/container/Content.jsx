@@ -1,6 +1,7 @@
 const Content = [
   { 
     title: 'Status do Relacionamento',
+    date: '11.01.2021',
     image: '/images/relacionamento_serio.jpg',
     img_alt: 'Relacionamento Sério',
     description: 'Em um relacionamento sério a 3!',
@@ -8,6 +9,7 @@ const Content = [
   },
   { 
     title: 'Vestido Novo',
+    date: '11.01.2021',
     image: '/images/aline_vestido.jpg',
     img_alt: 'Vestido Maior',
     description: 'Meu número está ficando maior! O.M.G!',
@@ -15,6 +17,7 @@ const Content = [
   },
   { 
     title: 'Descansando as pernas',
+    date: '11.01.2021',
     image: '/images/pernas_para_o_ar.jpg',
     img_alt: 'Pernas para o ar',
     description: 'Colocando minhas pernas para o ar',
@@ -22,10 +25,35 @@ const Content = [
   },
   {
   title: 'Palpites',
+  date: '11.01.2021',
   image: '/images/boy_or_girl.jpg',
   img_alt: 'Menino ou Menina?',
   description: 'Alguém arrisca? Coloca lá no grupo!',
   video: '',
+},
+{
+  title: 'Papai com seu olhar 43',
+  date: '12.01.2021',
+  image: '/images/papai.jpg',
+  img_alt: 'Papai',
+  description: 'Anota aí Juvenil, vai dar bom!',
+  video: '',
+},
+{
+  title: 'Xonei',
+  date: '12.01.2021',
+  image: '/images/pulseira.jpg',
+  img_alt: 'Pulseira',
+  description: 'Bati o olho e xonei na pulseira.',
+  video: '',
+},
+{
+  title: 'Bebês engraçados',
+  date: '12.01.2021',
+  image: '',
+  img_alt: '',
+  description: 'Tente não rir com esses bebês fofos.',
+  video: 'https://youtu.be/MoVn6TeEW7c',
 },
 ]
 
