@@ -55,6 +55,14 @@ const Content = [
   description: 'Tente não rir com esses bebês fofos.',
   video: 'https://youtu.be/MoVn6TeEW7c',
 },
+{
+  title: 'Primeiro Presente do Bebê',
+  date: '18.01.2021',
+  image: '/images/primeiro_presente_bebe.jpg',
+  img_alt: 'Primeiro presente do bebê - macacãozinho',
+  description: 'Primeiro presente do bebê dado pela Monique!',
+  video: '',
+},
 ]
 
 export default Content
