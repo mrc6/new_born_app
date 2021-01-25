@@ -63,6 +63,14 @@ const Content = [
   description: 'Primeiro presente do bebê dado pela Monique!',
   video: '',
 },
+{
+  title: 'Filhos são Herança do Senhor',
+  date: '18.01.2021',
+  image: '/images/filhos_heranca_do_senhor.jpg',
+  img_alt: 'Filhos Herança do Senhor',
+  description: 'Os filhos são uma benção, uma recompensa que o Senhor nos dá.',
+  video: '',
+},
 ]
 
 export default Content
