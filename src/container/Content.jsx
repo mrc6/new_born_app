@@ -71,6 +71,14 @@ const Content = [
   description: 'Os filhos são uma benção, uma recompensa que o Senhor nos dá.',
   video: '',
 },
+{
+  title: 'Não foi dessa vez!',
+  date: '28.01.2021',
+  image: '/images/nao_foi_dessa_vez.jpg',
+  img_alt: 'Suricato -  Não Foi Dessa Vez',
+  description: 'Não foi dessa vez. Safira ou Josué estava com as pernas fechadas e não deu para saber o sexo no ultrassom.',
+  video: '',
+},
 ]
 
 export default Content
