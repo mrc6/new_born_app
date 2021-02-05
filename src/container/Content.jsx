@@ -79,6 +79,14 @@ const Content = [
   description: 'Não foi dessa vez. Safira ou Josué estava com as pernas fechadas e não deu para saber o sexo no ultrassom.',
   video: '',
 },
+{
+  title: 'Barriga de 4 Meses',
+  date: '05.02.2021',
+  image: '/images/barriga_4_meses.jpg',
+  img_alt: 'Barriga de 4 meses',
+  description: 'Olha minha barriguinha de 4 meses!',
+  video: '',
+},
 ]
 
 export default Content
