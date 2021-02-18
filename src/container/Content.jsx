@@ -87,6 +87,14 @@ const Content = [
   description: 'Olha minha barriguinha de 4 meses!',
   video: '',
 },
+{
+  title: 'Meu coraçãozinho',
+  date: '18.02.2021',
+  image: '/images/meu_coracaozinho.jpeg',
+  img_alt: 'Batimentos do coração do bebê',
+  description: 'Olha como meu coraçãozinho bate rápido!',
+  video: '',
+},
 ]
 
 export default Content
