@@ -95,6 +95,14 @@ const Content = [
   description: 'Olha como meu coraçãozinho bate rápido!',
   video: '',
 },
+{
+  title: 'Chá revelação do sexo do bebê',
+  date: '01.03.2021',
+  image: '',
+  img_alt: '',
+  description: 'Hoje é o grande dia!',
+  video: 'https://www.youtube.com/watch?v=v8bA3fC9M7U',
+},
 ]
 
 export default Content
