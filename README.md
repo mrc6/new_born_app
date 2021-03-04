@@ -10,6 +10,10 @@ O deploy do projeto está em https://new-born-app.herokuapp.com/
 
 no diretório principal do projeto você pode executar os seguintes comandos:
 
+### `npm install`
+
+Instala as dependências do projeto
+
 ### `npm start`
 
 Inicia o modo de desenvolvimento do projeto.<br />

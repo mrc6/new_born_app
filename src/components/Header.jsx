@@ -1,7 +1,7 @@
 import React from 'react'
 import Mamae from '../images/mamae.jpg'
 import Papai from '../images/papai.jpg'
-import Bebe from '../images/boy_or_girl.jpg'
+import Bebe from '../images/menina-com-vestido.jpg'
 
 const Header = () => {
   return (
