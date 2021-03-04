@@ -3,6 +3,8 @@ Este projeto foi lançado com [Create React App](https://github.com/facebook/cre
 A idéia foi criar um "App" tipo Instagram para que as pessoas mais próximas pudessem acompanhar a gravidez da minha
 esposa e para que tivéssemos um registro de tudo durante a gravidez.
 
+O deploy do projeto está em https://new-born-app.herokuapp.com/
+
 
 ## Scripts disponíveis
 
