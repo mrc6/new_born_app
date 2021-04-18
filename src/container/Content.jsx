@@ -103,6 +103,14 @@ const Content = [
   description: 'Hoje é o grande dia!',
   video: 'https://www.youtube.com/watch?v=v8bA3fC9M7U',
 },
+{
+  title: '27 Semanas de Gestação',
+  date: '18.04.2021',
+  image: '/images/Safira_27_semanas_gestacao.jpeg',
+  img_alt: '',
+  description: 'Estamos com 27 semanas de gestação. Tá chegando!!',
+  video: '',
+},
 ]
 
 export default Content
