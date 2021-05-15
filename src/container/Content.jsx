@@ -129,7 +129,7 @@ const Content = [
   title: 'Tá chegando o nosso chá de fralda',
   date: '15.05.2021',
   image: '/images/ChaFraldaSafira.jpg',
-  img_alt: '27 semanas de gestação',
+  img_alt: '31 semanas de gestação',
   description: 'Já estamos contando os dias para a chegada da nossa querida Ana Safira. Resolvemos fazer um chá de fralda, virtual por causa da pandemia infelizmente. Você pode ver a nossa listinha no botão abaixo. Clique para saber mais e aguarde mais novidade por aqui.',
   video: '',
   cta: 'https://www.listasmagalu.com/chadebebe/ana-safira-aline-e-marco',
