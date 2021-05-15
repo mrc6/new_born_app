@@ -6,6 +6,7 @@ const Content = [
     img_alt: 'Relacionamento Sério',
     description: 'Em um relacionamento sério a 3!',
     video: '',
+    cta: '',
   },
   { 
     title: 'Vestido Novo',
@@ -14,6 +15,7 @@ const Content = [
     img_alt: 'Vestido Maior',
     description: 'Meu número está ficando maior! O.M.G!',
     video: '',
+    cta: '',
   },
   { 
     title: 'Descansando as pernas',
@@ -22,6 +24,7 @@ const Content = [
     img_alt: 'Pernas para o ar',
     description: 'Colocando minhas pernas para o ar',
     video: '',
+    cta: '',
   },
   {
   title: 'Palpites',
@@ -30,6 +33,7 @@ const Content = [
   img_alt: 'Menino ou Menina?',
   description: 'Alguém arrisca? Coloca lá no grupo!',
   video: '',
+  cta: '',
 },
 {
   title: 'Papai com seu olhar 43',
@@ -38,6 +42,7 @@ const Content = [
   img_alt: 'Papai',
   description: 'Anota aí Juvenil, vai dar bom!',
   video: '',
+  cta: '',
 },
 {
   title: 'Xonei',
@@ -46,6 +51,7 @@ const Content = [
   img_alt: 'Pulseira',
   description: 'Bati o olho e xonei na pulseira.',
   video: '',
+  cta: '',
 },
 {
   title: 'Bebês engraçados',
@@ -54,6 +60,7 @@ const Content = [
   img_alt: '',
   description: 'Tente não rir com esses bebês fofos.',
   video: 'https://youtu.be/MoVn6TeEW7c',
+  cta: '',
 },
 {
   title: 'Primeiro Presente do Bebê',
@@ -62,6 +69,7 @@ const Content = [
   img_alt: 'Primeiro presente do bebê - macacãozinho',
   description: 'Primeiro presente do bebê dado pela Monique!',
   video: '',
+  cta: '',
 },
 {
   title: 'Filhos são Herança do Senhor',
@@ -70,6 +78,7 @@ const Content = [
   img_alt: 'Filhos Herança do Senhor',
   description: 'Os filhos são uma benção, uma recompensa que o Senhor nos dá.',
   video: '',
+  cta: '',
 },
 {
   title: 'Não foi dessa vez!',
@@ -78,6 +87,7 @@ const Content = [
   img_alt: 'Suricato -  Não Foi Dessa Vez',
   description: 'Não foi dessa vez. Safira ou Josué estava com as pernas fechadas e não deu para saber o sexo no ultrassom.',
   video: '',
+  cta: '',
 },
 {
   title: 'Barriga de 4 Meses',
@@ -86,6 +96,7 @@ const Content = [
   img_alt: 'Barriga de 4 meses',
   description: 'Olha minha barriguinha de 4 meses!',
   video: '',
+  cta: '',
 },
 {
   title: 'Meu coraçãozinho',
@@ -94,6 +105,7 @@ const Content = [
   img_alt: 'Batimentos do coração do bebê',
   description: 'Olha como meu coraçãozinho bate rápido!',
   video: '',
+  cta: '',
 },
 {
   title: 'Chá revelação do sexo do bebê',
@@ -102,6 +114,7 @@ const Content = [
   img_alt: '',
   description: 'Hoje é o grande dia!',
   video: 'https://www.youtube.com/watch?v=v8bA3fC9M7U',
+  cta: '',
 },
 {
   title: '27 Semanas de Gestação',
@@ -110,6 +123,16 @@ const Content = [
   img_alt: '',
   description: 'Estamos com 27 semanas de gestação. Tá chegando!!',
   video: '',
+  cta: '',
+},
+{
+  title: 'Tá chegando o nosso chá de fralda',
+  date: '15.05.2021',
+  image: '/images/ChaFraldaSafira.jpg',
+  img_alt: '27 semanas de gestação',
+  description: 'Já estamos contando os dias para a chegada da nossa querida Ana Safira. Resolvemos fazer um chá de fralda, virtual por causa da pandemia infelizmente. Você pode ver a nossa listinha no botão abaixo. Clique para saber mais e aguarde mais novidade por aqui.',
+  video: '',
+  cta: 'https://www.listasmagalu.com/chadebebe/ana-safira-aline-e-marco',
 },
 ]
 

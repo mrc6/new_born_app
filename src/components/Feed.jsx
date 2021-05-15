@@ -23,10 +23,11 @@ const showFeed = (array, counter) => {
               (e.video) &&
               <ReactPlayer
                 url={e.video}
-                width="330px"
+                width="310px"
               />
             }
-          <p>{e.description}</p>
+          <p className='description'>{e.description}</p>
+          {(e.cta) && <div className='cta'><a href={e.cta} target='_blank'>Saiba mais</a></div>}
         </div>
       )
     )
@@ -47,10 +48,11 @@ const showFeed = (array, counter) => {
             (e.video) &&
             <ReactPlayer
               url={e.video}
-              width="330px"
+              width="310px"
             />
           }
-        <p>{e.description}</p>
+        <p className='description'>{e.description}</p>
+        {(e.cta) && <div className='cta'><a href={e.cta} target='_blank'>Saiba mais</a></div>}
       </div>
     )
   )
