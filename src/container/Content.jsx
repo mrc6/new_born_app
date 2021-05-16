@@ -126,6 +126,15 @@ const Content = [
   cta: '',
 },
 {
+  title: '31 semanas de gestação',
+  date: '16.05.2021',
+  image: '/images/31_Semanas.jpeg',
+  img_alt: '31 semanas de gestação',
+  description: 'Mamãe, Papai, Ana Safira e Monique.',
+  video: '',
+  cta: '',
+},
+{
   title: 'Tá chegando o nosso chá de fralda',
   date: '15.05.2021',
   image: '/images/ChaFraldaSafira.jpg',
