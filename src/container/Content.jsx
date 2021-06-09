@@ -143,6 +143,15 @@ const Content = [
   video: '',
   cta: 'https://www.listasmagalu.com/chadebebe/ana-safira-aline-e-marco',
 },
+{
+  title: 'Venha participar do nosso chá de fralda',
+  date: '09.06.2021',
+  image: '/images/Berco_Ana_Safira.jpg',
+  img_alt: 'Berço Ana Safira',
+  description: 'Olha o berço da Ana Safira como ficou. O chá de fralda vai ser agora dia 12/06/2021 às 20h e terá sorteio de uma cesta de chocolates. Clique no botão abaixo para entrar no meet e participar do chá de fralda.',
+  video: '',
+  cta: 'https://meet.google.com/uou-cysh-abi',
+},
 ]
 
 export default Content
