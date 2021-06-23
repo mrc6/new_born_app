@@ -152,6 +152,33 @@ const Content = [
   video: '',
   cta: 'https://meet.google.com/uou-cysh-abi',
 },
+{
+  title: 'Chá de Fralda da Safira',
+  date: '12.06.2021',
+  image: '/images/ChaDeFraldaSafira.jpeg',
+  img_alt: 'Chá de Fralda da Safira',
+  description: 'E assim foi o nosso chá de fralda online. Quem ganhou a cesta de chocolates foi a Roberta Maia.',
+  video: '',
+  cta: '',
+},
+{
+  title: 'Contagem Regressiva',
+  date: '23.06.2021',
+  image: '/images/10ContagemRegressiva.jpeg',
+  img_alt: 'Contagem Regressiva: 10',
+  description: 'Tá chegando a hora, faltam só 10 dias!',
+  video: '',
+  cta: '',
+},
+{
+  title: 'Tudo pronto para o meu primeiro banhozinho!',
+  date: '23.06.2021',
+  image: '/images/PrimeiroBanho.jpeg',
+  img_alt: 'Tudo pronto para o meu primeiro banhozinho!: 10',
+  description: 'Tá tudo pronto para o meu primeiro banhozinho em casa! Cute cute!',
+  video: '',
+  cta: '',
+},
 ]
 
 export default Content
