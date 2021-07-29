@@ -179,6 +179,24 @@ const Content = [
   video: '',
   cta: '',
 },
+{
+  title: 'Cheguei ao mundo!',
+  date: '04.07.2021',
+  image: '/images/Nascimento_Ana_Safira.jpeg',
+  img_alt: 'Nascimento Ana Safira',
+  description: 'Cheguei no dia da independência (dos Estados Unidos porque sou chique). Estava com muita vontade de conhecer o papai e a mamãe.',
+  video: '',
+  cta: '',
+},
+{
+  title: 'Passei aqui para deixar seu dia mais fofo!',
+  date: '29.07.2021',
+  image: '/images/Feed_Ana_Safira.jpeg',
+  img_alt: 'Meu primeiro post! Rosto do bebê',
+  description: 'Meu primeiro post aqui no feed, e o último também. Gostaria de agradecer ao papai, a mamãe e a você que esteve aguardando a minha chegada, muito obrigada!',
+  video: '',
+  cta: '',
+},
 ]
 
 export default Content
